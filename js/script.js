@@ -4,7 +4,9 @@
 
 //GLOBAL VARIABLES
 /* global $ */
+$("#shoot").click(function(){
 
+)};
 
 
 // DOCUMENT READY FUNCTION BELOW

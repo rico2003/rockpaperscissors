@@ -1,9 +1,21 @@
 .row{
   text-align:center;
-  
+
 }
 #choices{
   display:flex;
-  justify-content:space-between;
-  
+  justify-content:space-around;
+
+}
+h1{
+    color: red;
+}
+h3{
+    color: blue;
+}
+button{
+    color:cyan;
+}
+h4{
+    color:darkcyan
 }
